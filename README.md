@@ -7,7 +7,7 @@ This repository contains the structured modules and hands-on laboratory exercise
 ##  Profile
 
 
-| :--- | :--- |
+
 | **Name** | Aasish Shrestha |
 |**Degree**|B.Tech CSE|
 | **Enrollment No.** | 12023002001003 |
