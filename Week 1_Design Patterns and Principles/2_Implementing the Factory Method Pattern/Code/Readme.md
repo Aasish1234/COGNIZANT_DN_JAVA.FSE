@@ -40,7 +40,10 @@ Based on the source directory, the files are organized as follows:
 ---
 
 ## How to Run
-
+  
 1. **Navigate to the code directory and compile all Java files:**
-```bash
+   ```bash
    javac *.java
+2. **Run the Main File:**
+   ```bash
+   java Main 
