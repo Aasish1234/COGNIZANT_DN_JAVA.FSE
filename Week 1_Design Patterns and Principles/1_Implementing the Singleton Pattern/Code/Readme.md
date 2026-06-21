@@ -36,3 +36,6 @@ Each logger class uses a different method to ensure that only one instance of th
 1. **Compile all Java files:**
    ```bash
    javac *.java
+2. **Run the Main File:**
+   ```bash
+   java Main   
